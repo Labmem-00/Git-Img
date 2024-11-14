@@ -1,0 +1,14 @@
+{
+  "name": "git-img",
+  "version": "1.0.0",
+  "description": "图床脚本",
+  "main": "index.js",
+  "scripts": {
+    "pi": "node ./pushImage.js" 
+  },
+  "author": "Labmem-00",
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^3.27.0"
+  }
+}
